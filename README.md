@@ -17,12 +17,19 @@ The goal is to classify images of dogs according to their breed. Given an image 
 ## Project Workflow
 
 Step 0: Import Datasets
+
 Step 1: Detect Humans
+
 Step 2: Detect Dogs
+
 Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+
 Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
+
 Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+
 Step 6: Write your Algorithm
+
 Step 7: Test Your Algorithm
 
 ### Important File Descriptions
