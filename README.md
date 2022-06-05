@@ -34,19 +34,22 @@ Step 7: Test Your Algorithm
 
 ### Important File Descriptions
 
-dog_app.ipynb: ***Python File Containing the code required to build the CNN Model***
+**dog_app.ipynb: ***Python File Containing the code required to build the CNN Model***
 
-extract_bottleneck_features.py: ***Function to extract bottleneck Features***
+**extract_bottleneck_features.py: ***Function to extract bottleneck Features***
 
-images: ***Directory Containing Sample Images***
+**images: ***Directory Containing Sample Images***
 
 ### Dataset & Bottleneck Features Used
 
 Please refer to the below link to download the dataset required for this project:
 
 1.Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.
+
 2. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder.
+
 3. Download the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
+
 4. For other reference files:  Clone the repository and navigate to the downloaded folder.
 ```	
 git clone https://github.com/udacity/dog-project.git
