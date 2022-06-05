@@ -82,5 +82,5 @@ I would like to give credit to:
 * ![MachineLearning_Mastery](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
 * ![AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2021/08/developing-an-image-classification-model-using-cnn/)
 
-# Github Link: [https://github.com/ankitparida/Dog-Breed-Classifier](https://github.com/ankitparida/Dog-Breed-Classifier/)
-# Medium Blog Post Link: [https://medium.com/@ankitparida/dog-breed-classifier-using-cnn-5fcb4a37479b](https://medium.com/@ankitparida/dog-breed-classifier-using-cnn-5fcb4a37479b)
+## Github Link: [https://github.com/ankitparida/Dog-Breed-Classifier](https://github.com/ankitparida/Dog-Breed-Classifier/)
+## Medium Blog Post Link: [https://medium.com/@ankitparida/dog-breed-classifier-using-cnn-5fcb4a37479b](https://medium.com/@ankitparida/dog-breed-classifier-using-cnn-5fcb4a37479b)
