@@ -69,11 +69,14 @@ cd dog-project
 
 ### Results
 Below are the test accuracy of the models which we have built in this Project:
+
 CNN to Classify Dog Breeds (From Scratch): 1.4354%
+
 CNN to Classify Dog Breeds (Using VGG-16): 45.5742%
+
 CNN from Resnet50: 81.1005%
 
-# Acknowledgements
+## Acknowledgements
 I would like to give credit to:
 * ![Udacity](https://classroom.udacity.com/nanodegrees/nd025)
 * ![MachineLearning_Mastery](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
