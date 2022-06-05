@@ -32,7 +32,7 @@ Step 6: Write your Algorithm
 
 Step 7: Test Your Algorithm
 
-### Important File Descriptions
+## Important File Descriptions
 
 **dog_app.ipynb: ***Python File Containing the code required to build the CNN Model***
 
@@ -40,7 +40,7 @@ Step 7: Test Your Algorithm
 
 **images: ***Directory Containing Sample Images***
 
-### Dataset & Bottleneck Features Used
+## Dataset & Bottleneck Features Used
 
 Please refer to the below link to download the dataset required for this project:
 
@@ -56,7 +56,7 @@ git clone https://github.com/udacity/dog-project.git
 cd dog-project
 ```
 
-### Libraries Used
+## Libraries Used
 1. sklearn
 2. keras
 3. numpy
@@ -67,7 +67,7 @@ cd dog-project
 8. tqdm
 9. cv2
 
-### Results
+## Results
 Below are the test accuracy of the models which we have built in this Project:
 
 CNN to Classify Dog Breeds (From Scratch): 1.4354%
