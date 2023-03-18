@@ -34,11 +34,11 @@ Step 7: Test Your Algorithm
 
 ## Important File Descriptions
 
-**dog_app.ipynb: ***Python File Containing the code required to build the CNN Model***
+**dog_app.ipynb:** ***Python File Containing the code required to build the CNN Model***
 
-**extract_bottleneck_features.py: ***Function to extract bottleneck Features***
+**extract_bottleneck_features.py:** ***Function to extract bottleneck Features***
 
-**images: ***Directory Containing Sample Images***
+**images:** ***Directory Containing Sample Images***
 
 ## Dataset & Bottleneck Features Used
 
